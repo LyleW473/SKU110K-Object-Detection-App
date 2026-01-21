@@ -1,0 +1,10 @@
+venv
+conda
+datasets
+data
+.venv
+.env
+saved_models
+runs
+__pycache__
+*.png
